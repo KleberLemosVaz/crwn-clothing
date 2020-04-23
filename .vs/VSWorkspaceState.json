@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components\\collection-item",
+    "\\src\\firebase"
+  ],
+  "SelectedNode": "\\src\\firebase\\firebase.utils.js",
+  "PreviewInSolutionExplorer": false
+}
